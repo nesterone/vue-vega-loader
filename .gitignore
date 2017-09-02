@@ -1,0 +1,11 @@
+.DS_Store
+node_modules/
+lib/
+test/unit/coverage
+
+# Editor directories and files
+.idea
+*.iml
+
+# Logs
+npm-debug.log
