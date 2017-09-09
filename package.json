@@ -1,14 +1,14 @@
 {
-  "name": "vue-vega-webpack",
+  "name": "vega-component-loader",
   "version": "1.0.0-alpha.1",
-  "description": "Webpack plugin for converting vega-lite and vega specifications in vue component options",
+  "description": "Webpack plugin for converting vega-lite and vega specifications in vue, react components",
   "main": "index.js",
   "scripts": {
     "test": "test"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nesterone/vue-vega-webpack.git"
+    "url": "git+https://github.com/nesterone/vega-component-loader.git"
   },
   "keywords": [
     "vue",
