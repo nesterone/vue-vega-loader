@@ -1,7 +1,7 @@
 {
   "name": "vega-component-loader",
   "version": "1.0.0-alpha.1",
-  "description": "Webpack plugin for converting vega-lite and vega specifications in vue, react components",
+  "description": "Webpack plugin for converting vega-lite and vega specifications in Vue.js",
   "main": "index.js",
   "scripts": {
     "test": "test"

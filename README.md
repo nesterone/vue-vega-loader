@@ -1,6 +1,6 @@
 # vue-vega-webpack
 
-Webpack plugin for converting [Vega Lite](https://vega.github.io/vega-lite/) and [Vega](https://vega.github.io/vega/) specifications in [Vue.js](https://vuejs.org/),[React.js](https://facebook.github.io/react/) component options
+Webpack plugin for converting [Vega Lite](https://vega.github.io/vega-lite/) and [Vega](https://vega.github.io/vega/) specifications in [Vue.js](https://vuejs.org/) component options
 
 ## Intro
 
